@@ -1,46 +1,36 @@
 ## **Adventure Work Sales Analysis Dashboard using MS Excel**
 
-### **Dashboard Overview**
+Adventure Works Sales Analysis Dashboard (Microsoft Excel)
 
-This dashboard provides a comprehensive view of business performance through multiple lenses:
+This project showcases an interactive Sales Analytics Dashboard developed entirely in Microsoft Excel. The dashboard provides a comprehensive view of Adventure Works’ global sales performance, focusing on product profitability, customer insights, regional trends, and time-based analysis to support data-driven decision-making.
 
-•	KPI Comparison (YoY): Tracks changes in COGS, Revenue, Quantity, Profit, Profit Margin, and Transactions compared to the previous year.
+### 🎯 **Objective**
 
-•	Yearly Performance Metrics: Highlights Total Revenue, Profit, and Transactions for years that exceeded the average performance.
+The purpose of this project was to transform raw sales data into meaningful business insights using Excel by:
 
-•	Monthly Profit Trends: Visualizes profit patterns across months to identify seasonality or growth opportunities.
+• Cleaning and validating the dataset
 
-•	Profit by Week Type: Compares profitability between different types of weeks (e.g., regular vs. holiday/special weeks).
+• Structuring data for analysis
 
-•	Quarterly Profit Analysis: Assesses profit distribution and growth trends across quarters.
+• Building KPI-driven pivot tables
 
-•	Profit by Weekday: Breaks down profitability by day of the week to uncover daily performance insights.
+• Designing an intuitive dashboard interface
 
-👉 This structure makes the dashboard a tool for spotting trends, benchmarking performance, and identifying growth opportunities.
+• Enabling stakeholders to explore sales and profit trends easily
 
+### 🛠 Tools & Techniques
 
-### **Dashboard 2 Overview**
+This project was completed using:
 
-This dashboard focuses on profitability drivers by products, customers, demographics, and regions:
+• Microsoft Excel
 
-•	Top 5 Profitable Products: Highlights the five highest-profit products, their % contribution, and the share of all other products.
+• Pivot Tables
 
-•	Top 5 Profitable Customers: Identifies top customers by profit contribution with comparison to the rest.
+• Pivot Charts
 
-•	Profit by Gender: Breaks down profitability by gender to uncover customer segment trends.
+• Data Validation
 
-•	Profit by Product Color: Analyzes profit by product color, emphasizing best-selling colors.
-
-•	Profit by Pricing Types: Assesses profit differences across pricing strategies.
-
-•	Country-wise Profit (Custom Map): Visualizes geographic profit distribution for regional insights.
-
-•	Profit by Age Groups: Segments profit by age to identify key demographic contributors.
-
-👉 This dashboard provides a clear view of who and what drives profit, enabling better product, pricing, and customer strategies.
-
-
-### **Tools Used:** Excel for Data Analysis & Visualization
+• Slicers / Filters
 
 ### **Process:**
 
@@ -51,6 +41,39 @@ This dashboard focuses on profitability drivers by products, customers, demograp
 • Create Pivot Tables based on the given questions or requirements.
 
 • Combine all Pivot Tables into a single dashboard.
+
+### 📈 **Key Highlights**
+
+• Top 5 products contributed 24.8% of total profit
+
+• Customers aged 50+ generated 50.5% of total profit
+
+• 95.4% of profit came from products priced above $150
+
+• Weekdays contributed 72% of total profit
+
+• United States & Australia generated 62.7% of total profit
+
+### **Dashboard Pages**
+
+✔ Detail Dashboard
+Provides deep-dive insights into product, customer, and geographic profitability
+
+✔ Time Analysis Dashboard
+Highlights yearly, monthly, and weekday revenue and profit performance
+
+Both dashboards include interactive filters for exploration.
+
+### **Business Impact**
+
+This Excel dashboard supports:
+
+✔ Executive performance reporting
+✔ Profitability tracking
+✔ Customer segmentation
+✔ Product strategy
+✔ Financial planning
+✔ Data-driven decision making
 
 ### **Visualizations**
 
