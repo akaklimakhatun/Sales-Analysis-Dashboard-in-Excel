@@ -1,6 +1,4 @@
-## **Adventure Work Sales Analysis Dashboard using MS Excel**
-
-Adventure Works Sales Analysis Dashboard (Microsoft Excel)
+## **Adventure Work Sales Analysis Dashboard Using MS Excel**
 
 This project showcases an interactive Sales Analytics Dashboard developed entirely in Microsoft Excel. The dashboard provides a comprehensive view of Adventure Works’ global sales performance, focusing on product profitability, customer insights, regional trends, and time-based analysis to support data-driven decision-making.
 
