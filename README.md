@@ -1,4 +1,6 @@
-**Dashboard Overview**
+## **Adventure Work Sales Analysis Dashboard using MS Excel**
+
+### **Dashboard Overview**
 
 This dashboard provides a comprehensive view of business performance through multiple lenses:
 
@@ -17,7 +19,7 @@ This dashboard provides a comprehensive view of business performance through mul
 👉 This structure makes the dashboard a tool for spotting trends, benchmarking performance, and identifying growth opportunities.
 
 
-**Dashboard 2 Overview**
+### **Dashboard 2 Overview**
 
 This dashboard focuses on profitability drivers by products, customers, demographics, and regions:
 
@@ -38,6 +40,21 @@ This dashboard focuses on profitability drivers by products, customers, demograp
 👉 This dashboard provides a clear view of who and what drives profit, enabling better product, pricing, and customer strategies.
 
 
-**Tools Used:** Excel for Data Analysis & Visualization
+### **Tools Used:** Excel for Data Analysis & Visualization
 
-**Visualizations**
+### **Process:**
+
+• Review the dataset to identify and handle any missing values.
+
+• Ensure that the data is accurate, consistent, and properly cleaned.
+
+• Create Pivot Tables based on the given questions or requirements.
+
+• Combine all Pivot Tables into a single dashboard.
+
+### **Visualizations**
+
+![Time Analysis Dashboard](https://github.com/user-attachments/assets/282743d5-10d5-43a8-9e43-c09632ef9dea)
+![P C Dashboard](https://github.com/user-attachments/assets/57d4ddac-1c04-4175-b366-a82d6acfa9cc)
+![Data Modeling](https://github.com/user-attachments/assets/7b8bfe1f-0b81-4033-b954-4c5021223bcf)
+
