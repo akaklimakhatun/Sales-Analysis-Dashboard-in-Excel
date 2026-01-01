@@ -39,3 +39,5 @@ This dashboard focuses on profitability drivers by products, customers, demograp
 
 
 **Tools Used:** Excel for Data Analysis & Visualization
+
+**Visualizations**
